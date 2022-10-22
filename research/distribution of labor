@@ -1,0 +1,16 @@
+How are existing
+
+
+EVERYONE DO THIS FOR THE TIME BEING
+--------------------------------------
+Figure out the project step by step:
+- learn pytorch (everyone)
+- do research on existing MNIST classifiers
+	-> https://en.wikipedia.org/wiki/MNIST_database
+
+- preprocess data (identifying location of numbers, resizing, reorienting)
+	-> may not work. Try and see what happens
+
+
+LATER ON FIGURE OUT INDIVIDUAL JOBS
+-----------------------------------

@@ -1,0 +1,19 @@
+# vscode workspace settings
+.vscode
+
+# data folder is too large to sync
+/data
+
+# ipython savestates
+.ipynb_checkpoints
+
+# python compiled files
+*.pyc
+
+# files with way too many images in them
+/out*
+/_*
+/in*
+/models/*
+/report
+/test_data_modified
